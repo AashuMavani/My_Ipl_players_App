@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="bg_color1">#9C27B0</color>
+    <color name="bg_color2">#00BCD4</color>
+    <color name="bg_color3">#E0A929</color>
+    <color name="bg_color4">#E81299</color>
+    <color name="bg_color5">#32EB0C</color>
+    <color name="bg_color6">#D9C8AF</color>
+    <color name="bg_color7">#46996F</color>
+    <color name="bg_color8">#EB8E4B</color>
+    <color name="bg_color9">#203904</color>
+    <color name="bg_color10">#3E0703</color>
+
+</resources>
